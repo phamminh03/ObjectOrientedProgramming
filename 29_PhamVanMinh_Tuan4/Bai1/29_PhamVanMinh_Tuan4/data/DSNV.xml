@@ -1,0 +1,34 @@
+<dsnv>
+  <nhanvien>
+    <loai>1</loai>
+    <ma>NV001</ma>
+    <ten>Phan Van A</ten>
+    <namsinh>1999</namsinh>
+    <gioitinh>nam</gioitinh>
+    <hsl>2.3</hsl>
+    <nvl>2020</nvl>
+    <snn>3</snn>
+  </nhanvien>
+  <nhanvien>
+    <loai>2</loai>
+    <ma>NV003</ma>
+    <ten>Nguyen Ng</ten>
+    <namsinh>2000</namsinh>
+    <gioitinh>nu</gioitinh>
+    <hsl>2.9</hsl>
+    <nvl>2019</nvl>
+    <doanhthu>1000</doanhthu>
+    <doanhthuTT>500</doanhthuTT>
+  </nhanvien>
+  <nhanvien>
+    <loai>3</loai>
+    <ma>NV007</ma>
+    <ten>Pham T</ten>
+    <namsinh>1992</namsinh>
+    <gioitinh>nam</gioitinh>
+    <hsl>3.0</hsl>
+    <nvl>2015</nvl>
+    <chucvu>Giam Doc</chucvu>
+    <hspccv>2.5</hspccv>
+  </nhanvien>
+</dsnv>

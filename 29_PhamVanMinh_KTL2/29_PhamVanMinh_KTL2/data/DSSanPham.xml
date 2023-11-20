@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<congty_a>
+  <diachi>343/40 To Hien Thanh, TPHCM</diachi>
+  <masothue>QLKD00132023</masothue>
+  <dssanphams>
+    <sanpham>
+      <loaisp>Giay thoi trang</loaisp>
+      <masp>TTr001</masp>
+      <tensp>Giay cao got X1L</tensp>
+      <chatlieu>Da nhan tao</chatlieu>
+      <chieucaode>5</chieucaode>
+      <loaimuigiay>Mui nhon</loaimuigiay>
+      <size>38</size>
+      <mausac>Den</mausac>
+      <namsanxuat>2018</namsanxuat>
+      <dongia>10</dongia>
+    </sanpham>
+    <sanpham>
+      <loaisp>Giay the thao</loaisp>
+      <masp>TT321</masp>
+      <tensp>Giay the thao chay bo</tensp>
+      <loaigiay>Running</loaigiay>
+      <chatlieu>Da cong nghiep</chatlieu>
+      <size>40</size>
+      <mausac>Do/Den</mausac>
+      <namsanxuat>2021</namsanxuat>
+      <dongia>20</dongia>
+    </sanpham>
+    <sanpham>
+      <loaisp>Giay the thao</loaisp>
+      <masp>TT482</masp>
+      <tensp>Giay the thao leo nui</tensp>
+      <loaigiay>Leo nui</loaigiay>
+      <chatlieu>Cao su dan hoi</chatlieu>
+      <size>39</size>
+      <mausac>Den/Xam</mausac>
+      <namsanxuat>2019</namsanxuat>
+      <dongia>36</dongia>
+    </sanpham>
+    <sanpham>
+      <loaisp>Giay thoi trang</loaisp>
+      <masp>TTr005</masp>
+      <tensp>Giay tay nam PT2</tensp>
+      <chatlieu>Da bo</chatlieu>
+      <chieucaode>2</chieucaode>
+      <loaimuigiay>Mui bang</loaimuigiay>
+      <size>42</size>
+      <mausac>Nau</mausac>
+      <namsanxuat>2012</namsanxuat>
+      <dongia>15</dongia>
+    </sanpham>
+    <sanpham>
+      <loaisp>Dep Sandal</loaisp>
+      <masp>SD121</masp>
+      <tensp>Dep Sandal co quai M102</tensp>
+      <chatlieu>Vai du cao cap</chatlieu>
+      <size>38</size>
+      <soquay>2</soquay>
+      <loaide>De cao su chong truot</loaide>
+      <mausac>Xanh camo</mausac>
+      <namsanxuat>2017</namsanxuat>
+      <dongia>10</dongia>
+    </sanpham>
+  </dssanphams>
+</congty_a>

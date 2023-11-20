@@ -1,0 +1,25 @@
+﻿
+<dsphieudk>
+  <phieudk>
+    <so>001</so>
+    <sv>
+      <mssv>11001</mssv>
+      <tensv>An</tensv>
+    </sv>
+    <ngayvh>15/09/2020</ngayvh>
+    <ngaydk>23/07/2022</ngaydk>
+    <somon>2</somon>
+    <hedt>DH</hedt>
+  </phieudk>
+  <phieudk>
+    <so>002</so>
+    <sv>
+      <mssv>11002</mssv>
+      <tensv>Binh</tensv>
+    </sv>
+    <ngayvh>03/09/2019</ngayvh>
+    <ngaydk>02/08/2020</ngaydk>
+    <somon>3</somon>
+    <hedt>CD</hedt>
+  </phieudk>
+</dsphieudk>
